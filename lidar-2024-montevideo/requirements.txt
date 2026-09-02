@@ -1,5 +1,0 @@
-laspy
-lazrs
-pandas
-numpy
-rasterio
