@@ -1,6 +1,5 @@
-# Los rasters finales de resultados se versionan con Git LFS (pueden
-# pesar decenas o cientos de MB). El alcance está limitado a esta
-# carpeta a propósito: así, si alguna vez se copian ahí mosaicos
-# crudos de entrada (por ejemplo, las hojas a 10 cm del Bloque 9),
-# esos NO quedan atrapados en Git LFS sin querer.
+﻿# Los rasters finales de resultados se versionan con Git LFS (pueden
+# pesar decenas o cientos de MB). El alcance se limita a esas
+# carpetas a proposito: asi, si alguna vez se copian ahi mosaicos
+# crudos de entrada, esos NO quedan atrapados en Git LFS sin querer.
 **/resultados/rasters/*.tif filter=lfs diff=lfs merge=lfs -text
