@@ -1,0 +1,25 @@
+# Nubes de puntos crudas: son los insumos, no resultados, y pesan
+# demasiado para versionar (varios GB por carpeta de vuelo)
+*.laz
+*.las
+
+# Índices de ArcGIS / LAStools (apuntan a los .laz reales, no son datos)
+*.lasd
+*.lasx
+
+# Cachés y bytecode de Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Checkpoints de Jupyter (si en algún momento se agregan notebooks)
+.ipynb_checkpoints/
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
