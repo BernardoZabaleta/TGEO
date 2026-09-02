@@ -3,4 +3,4 @@
 # carpeta a propósito: así, si alguna vez se copian ahí mosaicos
 # crudos de entrada (por ejemplo, las hojas a 10 cm del Bloque 9),
 # esos NO quedan atrapados en Git LFS sin querer.
-resultados/rasters/*.tif filter=lfs diff=lfs merge=lfs -text
+**/resultados/rasters/*.tif filter=lfs diff=lfs merge=lfs -text
