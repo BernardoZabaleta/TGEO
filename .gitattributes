@@ -1,5 +1,2 @@
-﻿# Los rasters finales de resultados se versionan con Git LFS (pueden
-# pesar decenas o cientos de MB). El alcance se limita a esas
-# carpetas a proposito: asi, si alguna vez se copian ahi mosaicos
-# crudos de entrada, esos NO quedan atrapados en Git LFS sin querer.
+# Los archivos GeoTIFF de resultados se versionan con Git LFS.
 **/resultados/rasters/*.tif filter=lfs diff=lfs merge=lfs -text
