@@ -24,7 +24,7 @@ sistema de coordenadas de salida fue WGS84 / UTM zona 21S (EGM96), con
 alturas ortométricas referidas al modelo de geoide EGM96. El ortomosaico
 y el MDS fueron generados a una resolución espacial de 2,5 cm/píxel.
 
-![](C:\TGEO\Fotogrametria\media\media\image1.jpeg){width="5.905555555555556in"
+![](media/media/Figura_1.jpeg){width="5.905555555555556in"
 height="8.352083333333333in"}
 
 **Figura 1.** Área de estudio
@@ -48,21 +48,21 @@ procesamiento y los resultados de calidad de los productos obtenidos
 queda disponible en:
 <https://github.com/BernardoZabaleta/TGEO/blob/main/Fotogrametria/Quality_report.pdf>
 
-![](C:\TGEO\Fotogrametria\media\media\image2.jpeg){width="5.905555555555556in"
+![](media/media/Figura_2.jpeg){width="5.905555555555556in"
 height="6.468055555555556in"}
 
 **Figura 2.** Ortomosaico del área de estudio, generado por
 fotogrametría a partir de 275 imágenes aéreas RGB adquiridas con un
 vehículo aéreo no tripulado en mayo de 2023
 
-![](C:\TGEO\Fotogrametria\media\media\image3.jpeg){width="5.905555555555556in"
+![](media/media/Figura_3.jpeg){width="5.905555555555556in"
 height="6.468055555555556in"}
 
 **Figura 3.** Modelo digital de superficie del área de estudio, generado
 por fotogrametría a partir de 275 imágenes aéreas RGB adquiridas con un
 vehículo aéreo no tripulado en mayo de 2023
 
-![](C:\TGEO\Fotogrametria\media\media\image4.jpeg){width="5.905555555555556in"
+![](media/media/Figura_4.jpeg){width="5.905555555555556in"
 height="6.468055555555556in"}
 
 **Figura 4.** Nube de puntos densa del área de estudio, generada por
